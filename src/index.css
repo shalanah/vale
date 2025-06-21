@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+button:not(:disabled),
+a:not(:disabled) {
+  @apply cursor-pointer;
+}
+
+button:disabled,
+a:disabled {
+  @apply cursor-not-allowed;
+}

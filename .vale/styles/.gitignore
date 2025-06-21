@@ -1,0 +1,9 @@
+# ─ ignore everything in this folder ─────
+*
+
+# ── except keep this .gitignore so Git reads these rules ──
+!.gitignore
+
+# ── except keep the config folder and everything under it ──
+!config/
+!config/**
