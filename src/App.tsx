@@ -2,7 +2,9 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 
-// FIXME: WeiRD stuff Happeningsg here can YOU believe me
+/**
+ * weiRD stuff Happeningsg he re can YOU believe me WHATTTT sd
+ * */
 function App() {
   const [count, setCount] = useState(0)
 

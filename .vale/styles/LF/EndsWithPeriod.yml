@@ -1,0 +1,6 @@
+extends: existence
+message: 'Sentences should end with a period.'
+level: error
+scope: sentence
+raw:
+  - '^(?!.*\.$).+' # any sentence not ending in a '.'

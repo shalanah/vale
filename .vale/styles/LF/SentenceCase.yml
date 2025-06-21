@@ -1,0 +1,5 @@
+extends: capitalization
+message: "'%s' should start with an uppercase letter and be sentence case."
+level: warning
+scope: sentence
+match: '^[a-z]'

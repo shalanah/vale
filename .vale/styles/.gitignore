@@ -5,5 +5,7 @@
 !.gitignore
 
 # ── except keep the config folder and everything under it ──
+!LF/
+!LF/**
 !config/
 !config/**
